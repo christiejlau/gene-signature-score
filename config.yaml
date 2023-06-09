@@ -1,0 +1,5 @@
+### Configuration file for scRNA-seq gene signature scoring.
+
+- adata_path: "./adata.h5ad"
+- geneset_path: "./diapause_genes.csv"
+- output_path: "./diapause_scores.csv"
